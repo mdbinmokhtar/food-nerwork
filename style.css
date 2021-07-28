@@ -55,5 +55,35 @@ h1{
     
 }
 .food-item{
-    width: 30%;
+    width: 280px;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-right: 6px;
+   
+}
+.extra{
+    width: 85%;
+    height: 200px;
+    box-shadow:5px 5px 10px gray;
+    margin: 100px;
+    border-radius: 20px;
+    display: flex;
+}
+.extra-item{
+    width: 40%;
+    padding-left: 10%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    padding: 2px;
+  
+}
+footer p{
+    font-size: 12px;
+}
+footer h2{
+    color: gray;
 }
