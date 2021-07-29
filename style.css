@@ -17,6 +17,7 @@ body{
     width: 50%;
     padding-left: 6%;
 }
+
 .highlight{
     color: orange;
 }
@@ -61,7 +62,7 @@ h1{
     margin-right: 6px;
    
 }
-.extra{
+.achivment{
     width: 85%;
     height: 200px;
     box-shadow:5px 5px 10px gray;
@@ -69,10 +70,17 @@ h1{
     border-radius: 20px;
     display: flex;
 }
-.extra-item{
-    width: 40%;
+.achivment-item{
+    width: 50%;
     padding-left: 10%;
+    padding-top: 4%;
+   
 }
+.achivement-size{
+    font-size: 45px;
+    font-weight: bold;
+}
+
 footer{
     text-align: center;
     background-color: black;
